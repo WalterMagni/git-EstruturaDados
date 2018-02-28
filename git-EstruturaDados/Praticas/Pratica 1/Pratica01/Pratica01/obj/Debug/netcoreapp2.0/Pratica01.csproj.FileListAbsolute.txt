@@ -1,0 +1,4 @@
+C:\Users\Samsung\source\repos\Pratica01\Pratica01\obj\Debug\netcoreapp2.0\Pratica01.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\source\repos\Pratica01\Pratica01\obj\Debug\netcoreapp2.0\Pratica01.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Pratica01\Pratica01\obj\Debug\netcoreapp2.0\Pratica01.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Pratica01\Pratica01\obj\Debug\netcoreapp2.0\Pratica01.AssemblyInfo.cs

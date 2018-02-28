@@ -1,0 +1,11 @@
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\bin\Debug\netcoreapp2.0\EDA2Q1-35089.deps.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\bin\Debug\netcoreapp2.0\EDA2Q1-35089.runtimeconfig.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\bin\Debug\netcoreapp2.0\EDA2Q1-35089.runtimeconfig.dev.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\bin\Debug\netcoreapp2.0\EDA2Q1-35089.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\bin\Debug\netcoreapp2.0\EDA2Q1-35089.pdb
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.csprojResolveAssemblyReference.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.csproj.CoreCompileInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.AssemblyInfoInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.AssemblyInfo.cs
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Provas\Prova02\EDA2Q1-35089\EDA2Q1-35089\obj\Debug\netcoreapp2.0\EDA2Q1-35089.pdb

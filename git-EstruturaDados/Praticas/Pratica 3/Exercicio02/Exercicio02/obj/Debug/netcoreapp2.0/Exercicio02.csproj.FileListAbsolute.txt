@@ -1,0 +1,11 @@
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\bin\Debug\netcoreapp2.0\Exercicio02.deps.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\bin\Debug\netcoreapp2.0\Exercicio02.runtimeconfig.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\bin\Debug\netcoreapp2.0\Exercicio02.runtimeconfig.dev.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\bin\Debug\netcoreapp2.0\Exercicio02.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\bin\Debug\netcoreapp2.0\Exercicio02.pdb
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.csprojResolveAssemblyReference.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.csproj.CoreCompileInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.AssemblyInfoInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.AssemblyInfo.cs
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 3\Exercicio02\Exercicio02\obj\Debug\netcoreapp2.0\Exercicio02.pdb

@@ -1,0 +1,11 @@
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\bin\Debug\netcoreapp2.0\Lista02.deps.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\bin\Debug\netcoreapp2.0\Lista02.runtimeconfig.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\bin\Debug\netcoreapp2.0\Lista02.runtimeconfig.dev.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\bin\Debug\netcoreapp2.0\Lista02.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\bin\Debug\netcoreapp2.0\Lista02.pdb
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.csprojResolveAssemblyReference.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.csproj.CoreCompileInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.AssemblyInfoInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.AssemblyInfo.cs
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Praticas\Pratica 2\Lista02\Lista02\obj\Debug\netcoreapp2.0\Lista02.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Pratica 1\Pratica01.cs" Link="Pratica01.cs" />
+  </ItemGroup>
+
+</Project>

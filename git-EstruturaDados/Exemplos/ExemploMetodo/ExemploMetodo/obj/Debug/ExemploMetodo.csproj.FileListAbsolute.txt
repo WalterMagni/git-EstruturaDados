@@ -1,0 +1,7 @@
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\bin\Debug\ExemploMetodo.exe.config
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\bin\Debug\ExemploMetodo.exe
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\bin\Debug\ExemploMetodo.pdb
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\obj\Debug\ExemploMetodo.csprojResolveAssemblyReference.cache
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\obj\Debug\ExemploMetodo.csproj.CoreCompileInputs.cache
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\obj\Debug\ExemploMetodo.exe
+F:\Kojin\2018\Bandtec\ED-1sem\Aulas\ExemploMetodo\ExemploMetodo\obj\Debug\ExemploMetodo.pdb

@@ -1,0 +1,11 @@
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp2.0\ExercicioVetor.deps.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp2.0\ExercicioVetor.runtimeconfig.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp2.0\ExercicioVetor.runtimeconfig.dev.json
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp2.0\ExercicioVetor.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\bin\Debug\netcoreapp2.0\ExercicioVetor.pdb
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.csprojResolveAssemblyReference.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.csproj.CoreCompileInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.AssemblyInfoInputs.cache
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.AssemblyInfo.cs
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.dll
+E:\DRIVE\BANDTEC\2018-01\Estrutura de Dados e Armazenamento\Exercicios\ExercicioVetor\ExercicioVetor\ExercicioVetor\obj\Debug\netcoreapp2.0\ExercicioVetor.pdb
